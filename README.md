@@ -1,4 +1,4 @@
-# demoairbrother
+# Demo: Air Brother
 
 A demo app on how to use air_brother to use a Brother scanner in your flutter apps. 
 
